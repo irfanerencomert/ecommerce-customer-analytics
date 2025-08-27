@@ -66,25 +66,6 @@ if page == "Genel Bakış":
 
     st.divider()
 
-    # # Proje Bilgileri
-    # st.subheader("Proje Detayları")
-    # st.markdown("""
-    # **Hedef Yetenekler:**
-    # - ✅ Feature Engineering
-    # - ✅ Customer Segmentation (RFM Analysis)
-    # - ✅ Machine Learning Pipeline
-    # - ✅ Streamlit Web App
-    # - ✅ Model Deployment
-    #
-    # **Veri Kaynağı:**
-    # Kaggle - [Online Retail II Dataset](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci)
-    # """)
-    #
-    # # Mimari Diyagram
-    # st.subheader("Sistem Mimarisi")
-    # st.image("https://raw.githubusercontent.com/streamlit/example-app-sales-forecast/main/sales_forecast.png",
-    #          caption="Örnek Analitik Pipeline Mimarisi")
-
     # Proje Bilgileri
     st.subheader("Proje Detayları")
     st.markdown("""
