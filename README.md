@@ -5,13 +5,13 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.0-orange)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-End-to-end data science solution for customer segmentation and sales forecasting. Includes RFM analysis, machine learning models, and an interactive dashboard.
+> 🎯 End-to-end data science solution for customer segmentation and sales forecasting. Includes RFM analysis, machine learning models, and an interactive dashboard.
 
 ![Dashboard Preview](assets/dashboard.png)
 
 ---
 
-## 📊 Project Overview
+## 🚀 Overview
 
 This project includes:
 
@@ -59,25 +59,15 @@ This project includes:
 
 ---
 
-## 📂 Folder Structure
+## 📂 Project Structure
 
 ```bash
 📦 ecommerce-customer-analytics/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│   ├── raw/
-│   └── processed/
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_customer_segmentation.ipynb
-│   └── 04_sales_prediction.ipynb
 ├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── models.py
-│   └── utils.py
 ├── models/
 ├── app.py (Streamlit app)
 └── config.py
