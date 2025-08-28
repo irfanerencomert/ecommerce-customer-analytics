@@ -208,3 +208,5 @@ __marimo__/
 
 data/processed
 data/raw
+models/sales_model_v20250828_1402.pkl
+models/kmeans_model.pkl
