@@ -59,6 +59,11 @@ This project includes:
 
 ---
 
+## 🖼️ Visuals 
+![3D Segmentation Map](assets/3dplot.png)
+
+---
+
 ## 📂 Project Structure
 
 ```bash
@@ -72,6 +77,8 @@ This project includes:
 ├── app.py (Streamlit app)
 └── config.py
 ```
+
+---
 
 ## 📝 License
 
